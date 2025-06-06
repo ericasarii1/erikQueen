@@ -49,7 +49,7 @@ speedtest-cli
 coffeehouse==2.2.4
 regex
 bleach
-git+https://github.com/starry69/python-markdown2.git
+markdown2
 wikipedia
 telethon
 telegraph
